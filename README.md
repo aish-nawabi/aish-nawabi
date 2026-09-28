@@ -1,7 +1,20 @@
-# Hi there! 👋
+# Hi there, I'm Ayesha! 👋
 
-I'm a passionate student exploring the world of Computer Science and Software Engineering. I love logical problem-solving and am currently mastering Python basics, automation scripts, and small utility projects.
+I am a passionate **Python Developer & Backend Builder** focused on writing clean, efficient, and scalable code.
 
-- 💻 **Currently learning:** Advanced Python & IT Concepts
-- 🎯 **Goal:** Building a strong foundation for a career in Software Engineering
-- 🛠️ **Check out my repositories to see my coding journey!**
+### 🚀 What I Do:
+* 🐍 **Backend Development:** Building fast & reliable REST APIs using **FastAPI**.
+* 🕷️ **Web Scraping & Data Extraction:** Extracting structured data (CSV, JSON, Excel) using `BeautifulSoup` & `requests`.
+* 🤖 **AI Integration:** Integrating OpenAI & Gemini APIs to build smart, chat-based applications.
+* ⚙️ **Automation & Utility Scripts:** Writing custom Python scripts for task automation.
+
+### 🛠️ Tech Stack & Tools:
+* **Languages:** Python
+* **Backend Frameworks:** FastAPI, Uvicorn
+* **Data & Scraping:** BeautifulSoup, Requests, Pandas
+* **AI & LLM:** OpenAI API, Gemini API
+* **Tools & Environment:** Git, GitHub, VS Code, Conda, Virtualenv
+
+---
+📫 **Get in Touch:**
+Feel free to explore my repositories to check out my projects and code!
